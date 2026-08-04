@@ -1,0 +1,13 @@
+Develop a console-based Flight Management System using Python to simplify the management of
+flight information and passenger bookings. 
+The system should allow administrators to add, search, view, and delete flight records stored in CSV files. 
+Passengers should be able to book and cancel flight tickets through a menu-driven interface. 
+The application must automatically maintain seat availability by updating the number of available seats after 
+every booking or cancellation. It should generate reports such as the complete flight list, booking details, 
+and passenger records for easy monitoring and management. 
+The system should prevent bookings when no seats are available and display 
+appropriate messages to the user.
+
+
+
+
