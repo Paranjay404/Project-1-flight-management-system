@@ -1,0 +1,4 @@
+FlightNo,Source,Destination,Departure,Arrival,Seats,Available_seats,Fare
+AI101,Delhi,Mumbai,09:30,11:45,180,177,5200
+AI202,Bangalore,Delhi,14:00,16:30,150,146,4500
+AI303,Chennai,Kolkata,18:15,21:00,200,195,6000
